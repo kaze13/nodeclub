@@ -31,7 +31,7 @@ var config = {
 
   upload_dir: path.join(__dirname, 'public', 'user_data', 'images'),
 
-  db: 'mongodb://127.0.0.1/node_club_dev',
+  db: 'mongodb://106.185.44.133/node_club_dev',
   db_name: 'node_club_dev',
   session_secret: 'node_club',
   auth_cookie_name: 'node_club',
